@@ -1,7 +1,7 @@
 """
 # COMMENTS : 
 ----------------------------------------
-|       Matin Araghi - 97573150        |
+|               Matin                  |
 |                                      |
 |  Python Selenium Digikala Scraping   |
 ----------------------------------------
